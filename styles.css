@@ -19,4 +19,7 @@ body {
 
 .appetizers, .main, .beverages {
   color: #016236;
+  text-align: center;
+  height: 50px;
+  width: 200px;
 }
