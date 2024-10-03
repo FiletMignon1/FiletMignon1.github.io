@@ -4,7 +4,7 @@ p {
 }
 
 body {
-  background-color: #fdffff;
+  background-color: grey;
 }
 
 .title, h1 {
@@ -15,4 +15,8 @@ body {
   padding: 5px 5px;
   border: 5px black;
   border-radius: 10%;
+}
+
+.appetizers, .main, .beverages {
+  color: #016236;
 }
