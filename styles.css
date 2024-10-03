@@ -1,6 +1,8 @@
 p {
-  color: red;
-  background-color: blue;
-  padding: 5px;
-  text-align: center; 
+  font-family: Aachen;
+  color: aquamarine;
+}
+
+body {
+  background-color: white;
 }
