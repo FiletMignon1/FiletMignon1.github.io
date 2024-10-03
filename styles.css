@@ -1,3 +1,7 @@
+h1, h2, p {
+  font-family: Aachen;
+}
+
 .title, h1 {
   color: #1390e0;
 }
