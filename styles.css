@@ -1,11 +1,11 @@
-h1 h2 p {
-  font-family: Aachen;
+p {
+  font-family: Arial;
 }
 
-.title h1 {
+.title {
   color: blue;
 }
 
-.main h1 {
+.main {
   color: blue;
 }
