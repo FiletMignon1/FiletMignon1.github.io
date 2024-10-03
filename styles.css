@@ -1,11 +1,5 @@
 p {
-  font-family: Arial;
-}
-
-.title {
-  color: blue;
-}
-
-.menu {
-  color: blue;
+  color: red;
+  background-color: blue;
+  padding: 10px 10px;
 }
